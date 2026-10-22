@@ -1,0 +1,12 @@
+{
+    "model_architecture": "SmallResNet",
+    "total_parameters": 1209834,
+    "batch_size": 128,
+    "initial_learning_rate": 0.002,
+    "epochs_trained": 30,
+    "best_epoch": 26,
+    "best_val_acc_percent": 94.82,
+    "test_loss": 0.6388,
+    "test_acc_percent": 94.28,
+    "total_training_time_sec": 394.19
+}

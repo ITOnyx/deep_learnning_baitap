@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model weights / checkpoints
+*.pth
+*.pt
+*.h5
+*.ckpt
+
+# Datasets
+Fashion MNIST/
+*.csv.gz
+*.ubyte
+
+# Environments & IDEs
+.vscode/
+.idea/
+.venv/
+venv/
+env/

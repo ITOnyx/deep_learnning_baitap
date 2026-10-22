@@ -1,0 +1,13 @@
+{
+    "model_name": "LeNet-5",
+    "model_type": "lenet5",
+    "total_parameters": 61750,
+    "batch_size": 128,
+    "initial_learning_rate": 0.001,
+    "epochs_trained": 50,
+    "best_epoch": 50,
+    "best_val_acc_percent": 91.29,
+    "test_loss": 0.3316,
+    "test_acc_percent": 90.48,
+    "total_training_time_sec": 97.9
+}

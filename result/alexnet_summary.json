@@ -1,0 +1,13 @@
+{
+    "model_name": "AlexNet (Dropout + Data Augmentation)",
+    "model_type": "alexnet",
+    "total_parameters": 2970122,
+    "batch_size": 128,
+    "initial_learning_rate": 0.001,
+    "epochs_trained": 50,
+    "best_epoch": 49,
+    "best_val_acc_percent": 94.56,
+    "test_loss": 0.1724,
+    "test_acc_percent": 93.69,
+    "total_training_time_sec": 957.9
+}
